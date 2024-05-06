@@ -1,0 +1,141 @@
+html {
+    background-color: #151515;
+    color: whitesmoke;
+}
+
+.logo {
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    float: left;
+    
+}
+.kalki_AI{
+    color: whitesmoke;
+    position:absolute;
+    top: 37px;
+    left: 208px;
+    font-size:25px;
+}
+.bar{
+    position: absolute;
+    top: 35px;
+    left: 400px;
+}
+.Home{
+    display: inline-block;
+    
+}
+.UAE_Arm{
+    display: inline-block;
+    position: relative;
+    left: 30px;
+}
+
+.FAQ{
+    display: inline-block;
+    position: relative;
+    left: 60px;
+}
+.Login{
+    display: inline-block;
+    position: relative;
+    left: 90px;
+}
+.Register{
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    padding: 7px 15px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 17px;
+    border: 1px solid #FFF;
+    background-color: transparent;
+    color: #fff;  
+}
+
+.Register_Demant{
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    padding: 7px 15px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 17px;
+    border: 1px solid #FFF;
+    background-color: transparent;
+    color: #fff;  
+}
+
+.Register_Demant{
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    padding: 7px 15px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 17px;    
+    border: 1px solid #FFF;
+    background-color: transparent;
+    color: #fff;  
+}
+
+.Register_Crypto{
+    display: inline-block;
+    position: relative;
+    left: 150px;
+    padding: 7px 15px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 17px;    
+    border: 1px solid #FFF;
+    background-color: transparent;
+    color: #fff;  
+}
+.Our_Mission{
+    text-align: center;
+    position: relative;
+    top: 200px;
+    color: gray;
+}
+.main{
+    text-align: center;
+    position: relative;
+    top: 180px;
+    font-size: 60px;
+    line-height: 100%;
+}
+.para{
+    text-align: center;
+    position: relative;
+    top: 160px;
+    color: gray;
+}
+
+.invest{
+    height: 60px;
+    width: 250px;
+    display: inline-block;
+    position: relative;
+    top: 170px;
+    left: 550px;
+    padding: 7px 15px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 17px;    
+    border: 1px solid #FFF;
+    background-color: whitesmoke;
+    color: #151515;  
+}
+
+.invest_ div{
+    position: absolute;
+    height: 6px;
+    width: 6px;
+    border-top: 2px solid #151515;
+    border-left: 2px solid #151515;
+    transform: rotate(130deg);
+    top: 538px;
+    left: 750px;
+}
